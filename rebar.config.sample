@@ -129,7 +129,7 @@
 %% type, location and revision). Rebar currently support git, hg, bzr and svn.
 {deps, [application_name,
         {application_name, "1.0.*"},
-        {application_name, "1.0.*", {hg, "http://bitbucket.org/basho/rebar/", "f3626d5858a6"}}]}.
+        {application_name, "1.0.*", {hg, "https://bitbucket.org/basho/rebar/", "f3626d5858a6"}}]}.
 
 %% == Subdirectories ==
 
